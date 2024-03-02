@@ -1,1 +1,1 @@
-A data scientsit
+A data scientist and climate scientist with interest on airquality assessment, I embarked on this to check the relationship between PM 2.5 and PM 10 ,annual plot of each PMs and the trend over the years for Europe and Nigeria (1970-2018)
